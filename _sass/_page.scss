@@ -162,6 +162,10 @@
     color: $gray;
   }
 
+  .pub-links {
+    font-size: 0.95em;
+  }
+
   @include breakpoint(max-width $medium) {
     .paper-box {
       display: block;

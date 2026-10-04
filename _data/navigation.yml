@@ -18,5 +18,8 @@ main:
   - title: "Education"
     url: /#education
 
+  - title: "Internship"
+    url: /#internship-experience
+
   - title: "CV"
     url: /cv/Puqing_Wu_CV.pdf

@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ---
 
-I am a Ph.D. candidate in Computer Application Technology at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Yunpeng Chai](http://info.ruc.edu.cn/xwgg/xyxw/148bfe180f6648d2bba61c614f39be09.htm) and Prof. [Minhui Xie](https://minhui-xie.github.io/). My research focuses on AI storage systems and approximate nearest neighbor search on heterogeneous hardware. I received my B.Eng. in Computer Science and Technology from Beijing Jiaotong University in 2022.
+I am a Ph.D. candidate in Computer Application Technology at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm) and Prof. [Minhui Xie](https://minhui-xie.github.io/). My research focuses on AI storage systems and approximate nearest neighbor search on heterogeneous hardware. I received my B.Eng. in Computer Science and Technology from Beijing Jiaotong University in 2022.
 
 Research Interests
 ---
@@ -25,8 +25,9 @@ News
 
 <div class="news-container" markdown="1">
 
-- 🎉 **2026:** Quiver was accepted by ACM SIGOPS ATC 2026.
+- 🎉 **2026.09:** Quiver was accepted by ACM SIGOPS ATC 2026.
 - 📄 **2026.07:** Our PIMANN work appeared in ACM Transactions on Storage.
+- 💼 **2025.10:** Started an internship at WeChat Search.
 - 🏅 **2025.07:** PIMANN received the Best Storage-Related Paper Award at USENIX ATC 2025.
 
 </div>
@@ -38,11 +39,13 @@ Publications
 <div class="paper-box-image"><span class="badge">ATC 2026</span></div>
 <div class="paper-box-text" markdown="1">
 
-<p class="pub-title"><a href="https://github.com/ruc-system/quiver-ae">Quiver: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</a></p>
+<p class="pub-title">Quiver: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</p>
 
 **Puqing Wu**, Minhui Xie, Yiheng Tong, Jie Yin, Sen Yang, Yunpeng Chai
 
 <p class="pub-venue">ACM SIGOPS Annual Technical Conference (ATC), 2026</p>
+
+<p class="pub-links">Paper (forthcoming) &nbsp;|&nbsp; <a href="https://github.com/ruc-system/quiver-ae">Code</a></p>
 
 </div>
 </div>
@@ -51,11 +54,13 @@ Publications
 <div class="paper-box-image"><span class="badge">TOS 2026</span></div>
 <div class="paper-box-text" markdown="1">
 
-<p class="pub-title"><a href="https://doi.org/10.1145/3806055">Unlocking PIM-Core Capabilities for Efficient ANNS on Commodity Processing-in-Memory Hardware</a></p>
+<p class="pub-title">Unlocking PIM-Core Capabilities for Efficient ANNS on Commodity Processing-in-Memory Hardware</p>
 
 **Puqing Wu**, Minhui Xie, Enrui Zhao, Dafang Zhang, Jing Wang, Xiao Liang, Kai Ren, Yunpeng Chai
 
 <p class="pub-venue">ACM Transactions on Storage (TOS), 2026</p>
+
+<p class="pub-links"><a href="https://doi.org/10.1145/3806055">Paper</a> &nbsp;|&nbsp; <a href="https://github.com/cds-ruc/PIM-ANNS">Code</a></p>
 
 </div>
 </div>
@@ -64,11 +69,13 @@ Publications
 <div class="paper-box-image"><span class="badge">ATC 2025</span></div>
 <div class="paper-box-text" markdown="1">
 
-<p class="pub-title"><a href="https://www.usenix.org/conference/atc25/presentation/wu-puqing">Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling</a></p>
+<p class="pub-title">Turbocharge ANNS on Real Processing-in-Memory by Enabling Fine-Grained Per-PIM-Core Scheduling</p>
 
 **Puqing Wu**, Minhui Xie, Enrui Zhao, Dafang Zhang, Jing Wang, Xiao Liang, Kai Ren, Yunpeng Chai
 
 <p class="pub-venue">USENIX Annual Technical Conference (ATC), 2025. <strong>Best Storage-Related Paper Award.</strong></p>
+
+<p class="pub-links"><a href="https://www.usenix.org/system/files/atc25-wu-puqing.pdf">Paper</a> &nbsp;|&nbsp; <a href="https://github.com/cds-ruc/PIM-ANNS">Code</a> &nbsp;|&nbsp; <a href="https://www.usenix.org/sites/default/files/conference/protected-files/atc25_slides-wu_puqing.pdf">Slides</a></p>
 
 </div>
 </div>
@@ -84,3 +91,8 @@ Education
 
 - **Ph.D. in Computer Application Technology**, Renmin University of China, Sep. 2022 -- Jul. 2027 (expected).
 - **B.Eng. in Computer Science and Technology**, Beijing Jiaotong University, Sep. 2018 -- Jul. 2022.
+
+Internship Experience
+---
+
+- **Intern, WeChat Search**, Oct. 2025 -- Present.
