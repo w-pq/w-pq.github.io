@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
   <title id="title">Puqing Wu</title>
-  <desc id="desc">A blue circular monogram with the initials PW.</desc>
+  <desc id="desc">A blue circular monogram with the initials PQ.</desc>
   <circle cx="200" cy="200" r="200" fill="#5b7890"/>
-  <text x="200" y="230" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="112" text-anchor="middle">PW</text>
+  <text x="200" y="230" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="112" text-anchor="middle">PQ</text>
 </svg>
