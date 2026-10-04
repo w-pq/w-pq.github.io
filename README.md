@@ -2,9 +2,26 @@
 
 Public academic homepage for Puqing Wu: <https://w-pq.github.io/>.
 
+The site is built with [AcademicPages](https://github.com/academicpages/academicpages.github.io),
+a Jekyll theme derived from Minimal Mistakes. Its structure and presentation
+follow the same template family as Jiawei Guan's RUC homepage.
+
 The editable CV and application variants are maintained in the private
 `w-pq/cv` repository. This repository contains only public web content and the
 exported public CV.
+
+## Editing and preview
+
+- Edit the homepage content in [`_pages/about.md`](_pages/about.md).
+- Edit identity, profile links, and site metadata in [`_config.yml`](_config.yml).
+- Edit the top navigation in [`_data/navigation.yml`](_data/navigation.yml).
+
+Preview locally with:
+
+```bash
+bundle install
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
 
 ## Public project links
 

@@ -1,7 +1,3 @@
-.DS_Store
-*.aux
-*.log
-*.out
-*.fls
-*.fdb_latexmk
-*.synctex.gz
+_site/
+.bundle/
+vendor/bundle/
