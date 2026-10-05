@@ -20,3 +20,24 @@ main:
 
   - title: "Internship"
     url: /#internship-experience
+
+  - title: "中文"
+    url: /zh/
+
+zh:
+  - title: "关于我"
+    url: /zh/#about-me
+  - title: "研究方向"
+    url: /zh/#research-interests
+  - title: "动态"
+    url: /zh/#news
+  - title: "论文"
+    url: /zh/#publications
+  - title: "荣誉"
+    url: /zh/#honors-and-awards
+  - title: "教育经历"
+    url: /zh/#education
+  - title: "实习经历"
+    url: /zh/#internship-experience
+  - title: "English"
+    url: /
