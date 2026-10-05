@@ -101,9 +101,9 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 Honors and Awards
 ---
 
-- **China Petroleum Scholarship**, Renmin University of China, Sep. 2026.
-- **Outstanding Project Contribution Award**, Renmin University of China–Tencent Joint Laboratory, Apr. 2026.
-- **Best Storage-Related Paper Award**, USENIX ATC 2025.
+- **China Petroleum Scholarship**, Renmin University of China, 2026.
+- **Outstanding Project Contribution Award**, Renmin University of China–Tencent Joint Laboratory, 2026.
+- **Best Storage-Related Paper Award**, USENIX ATC, 2025.
 - **Outstanding Graduate of Beijing**, 2022.
 
 Services
