@@ -69,6 +69,21 @@ Publications
 </div>
 
 <div class="paper-box">
+<div class="paper-box-image"><span class="badge">DATE 2026</span></div>
+<div class="paper-box-text" markdown="1">
+
+<p class="pub-title">Eunomia: Preemption-based and QoS-aware Core Allocation in Oversubscribed Cloud</p>
+
+Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qing Liu, Zhengbin Huang, Le Yue, Yi Yang
+
+<p class="pub-venue">Design, Automation &amp; Test in Europe Conference (DATE), 2026, pp. 1–7</p>
+
+<p class="pub-links"><a href="https://doi.org/10.23919/DATE69613.2026.11539103">Paper</a></p>
+
+</div>
+</div>
+
+<div class="paper-box">
 <div class="paper-box-image"><span class="badge">ATC 2025</span></div>
 <div class="paper-box-text" markdown="1">
 
