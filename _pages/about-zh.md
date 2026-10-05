@@ -92,7 +92,7 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 - **中国石油奖学金**，中国人民大学，2026 年。
 - **项目优秀贡献奖**，中国人民大学—腾讯协同创新实验室，2026 年。
 - **最佳存储相关论文奖**，USENIX ATC，2025 年。
-- **北京市优秀毕业生**，2022 年。
+- **北京市优秀毕业生**，北京交通大学，2022 年。
 
 ## 学术服务 {#academic-service}
 

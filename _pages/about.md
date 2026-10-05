@@ -104,7 +104,7 @@ Honors and Awards
 - **China Petroleum Scholarship**, Renmin University of China, 2026.
 - **Outstanding Project Contribution Award**, Renmin University of China–Tencent Joint Laboratory, 2026.
 - **Best Storage-Related Paper Award**, USENIX ATC, 2025.
-- **Outstanding Graduate of Beijing**, 2022.
+- **Outstanding Graduate of Beijing**, Beijing Jiaotong University, 2022.
 
 Services
 ---
