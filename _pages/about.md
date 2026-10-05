@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "吴普清 / Puqing Wu"
+excerpt: "吴普清（Puqing Wu），中国人民大学信息学院博士生，研究 AI 存储系统、近似最近邻搜索与 GPU–SSD 异构计算。Puqing Wu is a Ph.D. candidate at Renmin University of China researching AI storage systems and approximate nearest neighbor search."
 author_profile: true
 redirect_from:
   - /about/
@@ -10,6 +10,8 @@ redirect_from:
 
 About Me
 ---
+
+<p lang="zh-CN">我是吴普清（Puqing Wu），中国人民大学信息学院博士生，研究方向为 AI 存储系统、近似最近邻搜索（ANNS）、存内计算与 GPU–SSD 异构计算。</p>
 
 I am a Ph.D. candidate in Computer Application Technology at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm) and Prof. [Minhui Xie](https://minhui-xie.github.io/). My research focuses on AI storage systems and approximate nearest neighbor search on heterogeneous hardware. I received my B.Eng. in Computer Science and Technology from Beijing Jiaotong University in 2022.
 
