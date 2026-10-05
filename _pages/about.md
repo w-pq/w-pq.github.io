@@ -76,7 +76,7 @@ Publications
 
 Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qing Liu, Zhengbin Huang, Le Yue, Yi Yang
 
-<p class="pub-venue">Design, Automation &amp; Test in Europe Conference (DATE), 2026, pp. 1–7</p>
+<p class="pub-venue">Design, Automation &amp; Test in Europe Conference (DATE), 2026</p>
 
 <p class="pub-links"><a href="https://doi.org/10.23919/DATE69613.2026.11539103">Paper</a></p>
 
@@ -102,6 +102,7 @@ Honors and Awards
 ---
 
 - **Best Storage-Related Paper Award**, USENIX ATC 2025.
+- **China Petroleum Scholarship**, Renmin University of China.
 - **Outstanding Graduate of Beijing**, 2022.
 
 Education

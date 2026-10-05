@@ -67,7 +67,7 @@ author_profile: true
 
 Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qing Liu, Zhengbin Huang, Le Yue, Yi Yang
 
-<p class="pub-venue">Design, Automation &amp; Test in Europe Conference (DATE), 2026, pp. 1–7</p>
+<p class="pub-venue">Design, Automation &amp; Test in Europe Conference (DATE), 2026</p>
 <p class="pub-links"><a href="https://doi.org/10.23919/DATE69613.2026.11539103">论文</a></p>
 
 </div>
@@ -90,6 +90,7 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 ## 荣誉与奖励 {#honors-and-awards}
 
 - **最佳存储相关论文奖**，USENIX ATC 2025。
+- **中国石油奖学金**，中国人民大学。
 - **北京市优秀毕业生**，2022 年。
 
 ## 教育经历 {#education}
