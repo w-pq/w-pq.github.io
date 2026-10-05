@@ -106,10 +106,10 @@ Honors and Awards
 - **Best Storage-Related Paper Award**, USENIX ATC 2025.
 - **Outstanding Graduate of Beijing**, 2022.
 
-Academic Service
+Services
 ---
 
-- **Artifact Evaluation Committee**, ASPLOS 2026.
+- **ASPLOS**, 2026, AEC, Reviewer.
 
 Education
 ---
