@@ -109,7 +109,7 @@ Honors and Awards
 Academic Service
 ---
 
-- **Artifact Evaluation Committee**, ASPLOS 2026 (both cycles).
+- **Artifact Evaluation Committee**, ASPLOS 2026.
 
 Education
 ---

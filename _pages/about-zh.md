@@ -96,7 +96,7 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 
 ## 学术服务 {#academic-service}
 
-- **Artifact Evaluation Committee（AE 委员会）成员**，ASPLOS 2026（两个 cycle）。
+- **Artifact Evaluation Committee（AE 委员会）成员**，ASPLOS 2026。
 
 ## 教育经历 {#education}
 
