@@ -90,13 +90,13 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 ## 荣誉与奖励 {#honors-and-awards}
 
 - **中国石油奖学金**，中国人民大学，2026 年 9 月。
-- **[项目优秀贡献奖](https://ur.tencent.com/article/1525)**，中国人民大学—腾讯协同创新实验室，2026 年 4 月。
+- **项目优秀贡献奖**，中国人民大学—腾讯协同创新实验室，2026 年 4 月。
 - **最佳存储相关论文奖**，USENIX ATC 2025。
 - **北京市优秀毕业生**，2022 年。
 
 ## 学术服务 {#academic-service}
 
-- **Artifact Evaluation Committee（AE 委员会）成员**，[ASPLOS 2026（Summer cycle）](https://asplos26aec-summer.hotcrp.com/u/0/users/pc)。
+- **Artifact Evaluation Committee（AE 委员会）成员**，ASPLOS 2026（两个 cycle）。
 
 ## 教育经历 {#education}
 

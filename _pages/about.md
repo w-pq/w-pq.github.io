@@ -102,14 +102,14 @@ Honors and Awards
 ---
 
 - **China Petroleum Scholarship**, Renmin University of China, Sep. 2026.
-- **[Outstanding Project Contribution Award](https://ur.tencent.com/article/1525)**, Renmin University of China–Tencent Joint Laboratory, Apr. 2026.
+- **Outstanding Project Contribution Award**, Renmin University of China–Tencent Joint Laboratory, Apr. 2026.
 - **Best Storage-Related Paper Award**, USENIX ATC 2025.
 - **Outstanding Graduate of Beijing**, 2022.
 
 Academic Service
 ---
 
-- **Artifact Evaluation Committee**, [ASPLOS 2026 (Summer cycle)](https://asplos26aec-summer.hotcrp.com/u/0/users/pc).
+- **Artifact Evaluation Committee**, ASPLOS 2026 (both cycles).
 
 Education
 ---
