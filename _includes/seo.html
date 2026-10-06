@@ -121,11 +121,25 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      {% if site.social.id %}
+      "@id" : {{ site.social.id | jsonify }},
+      {% endif %}
+      "name" : {{ site.social.name | default: site.name | jsonify }},
+      {% if site.social.given_name %}
+      "givenName" : {{ site.social.given_name | jsonify }},
+      {% endif %}
+      {% if site.social.family_name %}
+      "familyName" : {{ site.social.family_name | jsonify }},
+      {% endif %}
+      {% if site.social.alternate_names %}
+      "alternateName" : {{ site.social.alternate_names | jsonify }},
+      {% endif %}
+      {% if site.social.links and site.social.links != empty %}
+      "sameAs" : {{ site.social.links | jsonify }},
+      {% endif %}
+      "url" : {{ seo_url | append: "/" | jsonify }}
     }
   </script>
 {% endif %}
