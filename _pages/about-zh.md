@@ -10,7 +10,7 @@ author_profile: true
 
 ## 关于我 {#about-me}
 
-我是吴普清（Puqing Wu），[中国人民大学](https://www.ruc.edu.cn/)[信息学院](http://info.ruc.edu.cn/)计算机应用技术专业博士生，导师为[柴云鹏](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm)教授和[谢旻晖](https://minhui-xie.github.io/)。我的研究聚焦 AI 存储系统，以及异构硬件上的近似最近邻搜索。2022 年，我获得北京交通大学计算机科学与技术专业工学学士学位。
+我是吴普清（Puqing Wu），[中国人民大学](https://www.ruc.edu.cn/)[信息学院](http://info.ruc.edu.cn/)计算机应用技术专业博士生，导师为[柴云鹏](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm)教授和[谢旻晖](https://minhui-xie.github.io/)博士。我的研究聚焦 AI 存储系统，以及异构硬件上的近似最近邻搜索。2022 年，我获得北京交通大学计算机科学与技术专业工学学士学位。
 
 ## 研究方向 {#research-interests}
 
