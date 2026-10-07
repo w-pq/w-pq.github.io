@@ -14,7 +14,7 @@ redirect_from:
 About Me
 ---
 
-I am a Ph.D. candidate in Computer Application Technology at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm) and Prof. [Minhui Xie](https://minhui-xie.github.io/). My research focuses on AI storage systems and approximate nearest neighbor search on heterogeneous hardware. I received my B.Eng. in Computer Science and Technology from Beijing Jiaotong University in 2022.
+I am a Ph.D. candidate in Computer Application Technology at the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/), advised by Prof. [Yunpeng Chai](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/06f9baa19a6b43a9897c773886be5702.htm) and [Minhui Xie](https://minhui-xie.github.io/). My research focuses on AI storage systems and approximate nearest neighbor search on heterogeneous hardware. I received my B.Eng. in Computer Science and Technology from Beijing Jiaotong University in 2022.
 
 Research Interests
 ---
