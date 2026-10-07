@@ -114,7 +114,7 @@ Services
 Education
 ---
 
-- **Ph.D. in Computer Application Technology**, Renmin University of China, Sep. 2022 -- Jul. 2027 (expected).
+- **Ph.D. in Computer Application Technology**, Renmin University of China, Sep. 2022 -- Jun. 2027 (expected).
 - **B.Eng. in Computer Science and Technology**, Beijing Jiaotong University, Sep. 2018 -- Jul. 2022.
 
 Internship Experience

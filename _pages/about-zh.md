@@ -100,7 +100,7 @@ Yunda Guo, **Puqing Wu**, Haoqiong Bian, Yunpeng Chai, Yao Shen, Haoyu Yang, Qin
 
 ## 教育经历 {#education}
 
-- **中国人民大学，计算机应用技术博士在读**，2022 年 9 月至 2027 年 7 月（预计）。
+- **中国人民大学，计算机应用技术博士在读**，2022 年 9 月至 2027 年 6 月（预计）。
 - **北京交通大学，计算机科学与技术工学学士**，2018 年 9 月至 2022 年 7 月。
 
 ## 实习经历 {#internship-experience}
