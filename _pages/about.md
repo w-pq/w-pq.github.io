@@ -54,6 +54,21 @@ Publications
 </div>
 
 <div class="paper-box">
+<div class="paper-box-image"><span class="badge">FRecSys 2026</span></div>
+<div class="paper-box-text" markdown="1">
+
+<p class="pub-title">Taming Wide Beams: Request-Adaptive Inference for Generative Recommendation</p>
+
+Enrui Zhao, Minhui Xie, Yunfeng Zhao, **Puqing Wu**, Yaxin Ma, Hongqi Shan, Yu Kong, Liang Zeng, Jiaqiang Liu, Xiao Liang, Yunpeng Chai
+
+<p class="pub-venue">The 1st Workshop on Frontier Recommender Systems (FRecSys ’26), co-located with ACM SIGOPS ATC 2026</p>
+
+<p class="pub-links"><a href="https://atcworkshop-rec.github.io/#program">Workshop Program</a></p>
+
+</div>
+</div>
+
+<div class="paper-box">
 <div class="paper-box-image"><span class="badge">TOS 2026</span></div>
 <div class="paper-box-text" markdown="1">
 
