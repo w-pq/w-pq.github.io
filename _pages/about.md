@@ -28,7 +28,7 @@ News
 
 <div class="news-container" markdown="1">
 
-- 🎉 **2026.09:** Quiver was accepted by ACM SIGOPS ATC 2026.
+- 🎉 **2026.09:** GPipeANN was accepted by ACM SIGOPS ATC 2026.
 - 📄 **2026.07:** Our PIMANN work appeared in ACM Transactions on Storage.
 - 💼 **2025.10:** Started an internship at WeChat Search.
 - 🏅 **2025.07:** PIMANN received the Best Storage-Related Paper Award at USENIX ATC 2025.
@@ -42,7 +42,7 @@ Publications
 <div class="paper-box-image"><span class="badge">ATC 2026</span></div>
 <div class="paper-box-text" markdown="1">
 
-<p class="pub-title">Quiver: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</p>
+<p class="pub-title">GPipeANN: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</p>
 
 **Puqing Wu**, Minhui Xie, Yiheng Tong, Jie Yin, Sen Yang, Yunpeng Chai
 

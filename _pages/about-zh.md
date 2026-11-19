@@ -22,7 +22,7 @@ author_profile: true
 
 <div class="news-container" markdown="1">
 
-- 🎉 **2026.09：** Quiver 被 ACM SIGOPS ATC 2026 录用。
+- 🎉 **2026.09：** GPipeANN 被 ACM SIGOPS ATC 2026 录用。
 - 📄 **2026.07：** PIMANN 相关工作发表于 ACM Transactions on Storage。
 - 💼 **2025.10：** 开始在微信搜一搜实习。
 - 🏅 **2025.07：** PIMANN 获 USENIX ATC 2025 最佳存储相关论文奖。
@@ -35,7 +35,7 @@ author_profile: true
 <div class="paper-box-image"><span class="badge">ATC 2026</span></div>
 <div class="paper-box-text" markdown="1">
 
-<p class="pub-title">Quiver: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</p>
+<p class="pub-title">GPipeANN: Taming Throughput--Latency Tradeoff in GPU--SSD ANNS</p>
 
 **Puqing Wu**, Minhui Xie, Yiheng Tong, Jie Yin, Sen Yang, Yunpeng Chai
 
